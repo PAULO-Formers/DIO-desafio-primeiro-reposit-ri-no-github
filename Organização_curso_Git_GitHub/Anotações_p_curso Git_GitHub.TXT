@@ -1,0 +1,10 @@
+Comandos:
+git clone ----------> clona o arquivo do github
+cd (caminho) ----------> entra em um diretório
+cd .. ----------> sai deum diretório
+pwd ----------> exibe o estado do repositório
+*********************************
+links para Git_GitHub:
+https://git-scm.com/docs/git/pt_BR ----------> documentação Git
+
+https://docs.github.com/pt ----------> documentação GitHub
