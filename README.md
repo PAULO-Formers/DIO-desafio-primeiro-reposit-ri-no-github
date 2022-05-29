@@ -1,2 +1,3 @@
-# DIO-desafio-primeiro-reposit-ri-no-github
-Desafio de código do modulo 1 botcamp TQI 
+# DIO-desafio-primeiro-repositório-no-github
+Repositório criado para o desafio  de código git/github do modulo 1 botcamp TQI 
+
